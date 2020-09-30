@@ -41,7 +41,7 @@ class TestUtils {
 		
 		int[] numre = {0,1,2};
 		
-		assertTrue(Arrays.equals(numre,VarelagerUtils.finnVarenr(varetab)));
+		assertTrue(Arrays.equals(numre,VarelagerUtils.finnVarenumre(varetab)));
 	}
 	
 	@Test
